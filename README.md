@@ -1,7 +1,7 @@
 Olá! Eu sou a Dev Vanessa 👋🏻
 
 - 🌱 Tenho interesse em Desenvolvimento Web Full Stack.
-- 👾 Atualmente estou estudando HTML, CSS, JavaScript, Angular, Typescript e Java.
+- 👾 Atualmente estou estudando HTML, CSS, JavaScript, Angular, Typescript, Java e SQL.
 - 📫 Contate-me no email: vanalmeida18@gmail.com
 
 <div align="center">
